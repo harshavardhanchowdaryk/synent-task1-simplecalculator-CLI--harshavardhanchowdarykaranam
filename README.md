@@ -12,6 +12,3 @@ A command-line calculator built using Python.
 ## Technologies Used
 - Python
 - VS Code
-
-## Sample Outputs
-Screenshots are available in the screenshots folder.
